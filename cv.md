@@ -1,7 +1,7 @@
 ----------
 ![image](https://c.radikal.ru/c15/2002/bc/8515c2cc7a11.jpg)      
 ## Igor DrozdovskiJ
-Adress: Minsk, Golubeva str. 15-43  
+Adress: Kolodischi, Slavyanskaya str. 19  
 mobile: +375293355256  
 mile: drozdovskiii@mail.ru  
 github: https://github.com/Drozdovskiii  
