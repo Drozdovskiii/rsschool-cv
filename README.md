@@ -1,2 +1,0 @@
-
-https://drozdovskiii.github.io/rsschool-cv/cv
