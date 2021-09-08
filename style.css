@@ -1,0 +1,31 @@
+body{
+	max-width: 1024px;
+}
+h1{
+	color:#6A6F43;
+	background-color:#D7D7EB;
+	border:1px solid #1D1D30;
+	margin-left:200px;
+	margin-right:200px;
+	padding:10px;
+	
+}
+
+a{
+	color:#0D275A;
+	}
+
+h2 {
+	color:#8E9743;
+	background-color:#E3E3EF;
+	border:1px dashed #1D1D30;
+}
+strong{
+	color:#43506F;
+}
+
+#a2{
+	color:#BF1B0C;
+	font-size:16px;
+}
+
