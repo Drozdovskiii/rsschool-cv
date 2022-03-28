@@ -1,6 +1,7 @@
 ----------
-![image](https://github.com/Drozdovskiii/my_files/blob/master/0-02-05-6bf62068f1582b867757bf35778db4e844f333c16e6188b761b707cc99fd9f36_59d4598ca07da45a.jpg)      
-## Igor DrozdovskiJ
+<img src="https://github.com/Drozdovskiii/my_files/blob/master/0-02-05-6bf62068f1582b867757bf35778db4e844f333c16e6188b761b707cc99fd9f36_59d4598ca07da45a.jpg" alt="photo" width="200"/>
+  
+## Igor Drozdovski
 Adress: Kolodischi, Slavyanskaya str. 19  
 mobile: +375293355256  
 mile: drozdovskiii@mail.ru  
